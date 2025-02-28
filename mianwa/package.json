@@ -9,6 +9,7 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "echarts": "^5.6.0",
     "element-plus": "^2.9.4",
     "pinia": "^2.3.1",
     "unplugin-auto-import": "^19.0.0",
