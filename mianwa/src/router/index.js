@@ -30,7 +30,7 @@ const routes=[
     },
     {
         path:'*',
-        name:'404NotFound',
+        name:'NotFound',
         component:()=>import('../components/NotFound.vue')
     }
 ]
